@@ -32,4 +32,8 @@ Diante deste desafio o CEO da empresa House Rocket lançou algumas perguntas a e
 - Gostaria de um Mapa indicando onde as casas estão localizadas geograficamente.
 
 
-<b> Fonte dos dados:</b> https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
+
+### Ferramentas e dados utilizados:
+- <b> Manipulação, limpeza e análise exploratória dos dados:<b/> Pandas, Numpy, missingno;
+- <b> Visualização dos dados:<b/> plotly;
+- <b> Fonte dos dados:<b/> https://www.kaggle.com/datasets/harlfoxem/housesalesprediction.
